@@ -1,6 +1,23 @@
-import os
-import pandas as pd
-from datetime import datetime
+import subprocess
+import sys
+
+# Função para instalar os módulos necessários
+def instalar_modulo(modulo):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", modulo])
+
+# Verifica e instala os módulos necessários
+try:
+    import os
+    import pandas as pd
+    from datetime import datetime
+except ImportError as e:
+    modulo_faltante = str(e).split()[-1][1:-1]  # Extrai o nome do módulo faltante
+    print(f"O módulo {modulo_faltante} não está instalado. Instalando agora...")
+    instalar_modulo(modulo_faltante)
+    # Re-importa os módulos após a instalação
+    import os
+    import pandas as pd
+    from datetime import datetime
 
 def ocultar_s24(sample_number):
     # Substitui 'S24' por asteriscos, mantendo o restante do número intacto

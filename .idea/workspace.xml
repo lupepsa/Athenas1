@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92703974-2940-496f-aa36-ae2e11a05834" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Athenas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Athenas.iml" afterDir="false" />
+    <list default="true" id="92703974-2940-496f-aa36-ae2e11a05834" name="Changes" comment="At1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Desafio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dir/RE_Química_0001_07012025.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dir/RE_Química_0001_07012025.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,15 @@
       <option name="presentableId" value="Default" />
       <updated>1736290203536</updated>
     </task>
+    <task id="LOCAL-00001" summary="At1">
+      <option name="closed" value="true" />
+      <created>1736297041833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736297041833</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="At1" />
+    <option name="LAST_COMMIT_MESSAGE" value="At1" />
   </component>
 </project>
