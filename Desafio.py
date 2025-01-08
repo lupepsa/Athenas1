@@ -5,7 +5,7 @@ import sys
 def instalar_modulo(modulo):
     subprocess.check_call([sys.executable, "-m", "pip", "install", modulo])
 
-# Verifica e instala os módulos necessários
+## Verifica e instala os módulos necessários
 try:
     import os
     import pandas as pd
