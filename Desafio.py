@@ -5,7 +5,7 @@ import sys
 def instalar_modulo(modulo):
     subprocess.check_call([sys.executable, "-m", "pip", "install", modulo])
 
-## Verifica e instala os módulos necessários
+# Verifica e instala os módulos necessários
 try:
     import os
     import pandas as pd
@@ -20,7 +20,7 @@ except ImportError as e:
     from datetime import datetime
 
 def ocultar_s24(sample_number):
-    # Substitui 'S24' por asteriscos, mantendo o restante do número intacto
+    ## Substitui 'S24' por asteriscos, mantendo o restante do número intacto
     return sample_number.replace('S24/', '')
 
 def formatar_valor(value):
