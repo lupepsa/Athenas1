@@ -37,7 +37,7 @@ def formatar_valor(value):
 
 def process_excel_to_txt():
     # Pergunta ao usuário a pasta de busca
-    folder_path = input("Digite o caminho da pasta onde buscar os arquivos do Excel -> Dir: ")
+    folder_path = input("Digite o caminho da pasta onde buscar os arquivos do Excel e depois aperte ENTER -> Dir: ")
 
     # Verifica se o caminho é válido
     if not os.path.isdir(folder_path):
