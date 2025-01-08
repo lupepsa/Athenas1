@@ -1,7 +1,3 @@
-# Desafio técnico 01
-
-###### Desafio para vaga de T.I
-
 Esse desafio tem como objetivo criar um script para automatizar um processo manual
 
 Abaixo esta o passo-a-passo para criação e publicação do desafio
