@@ -10,7 +10,7 @@ def formatar_valor(value):
     """Formata o valor com vírgula no lugar do ponto decimal, retornando '0' se for 0.00."""
     try:
         if pd.isna(value) or isinstance(value, str):
-            return ""  # Retorna vazio se for texto ou NaN
+            return "0"  # Retorna vazio se for texto ou NaN
         formatted_value = f"{float(value):.2f}"
         if formatted_value == "0.00":
             return "0"  # Retorna apenas 0 para valores 0.00

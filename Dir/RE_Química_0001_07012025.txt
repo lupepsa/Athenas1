@@ -10,7 +10,7 @@ r	01CA	mmolc.dm-3	16,07
 r	01MG	mmolc.dm-3	9,13
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	25,51
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	25,51
 r	01SB	mmolc.dm-3	27,58
 r	01CTC	mmolc.dm-3	53,09
@@ -52,7 +52,7 @@ r	01CA	mmolc.dm-3	13,27
 r	01MG	mmolc.dm-3	6,81
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	16,39
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	16,39
 r	01SB	mmolc.dm-3	21,66
 r	01CTC	mmolc.dm-3	38,05
@@ -94,7 +94,7 @@ r	01CA	mmolc.dm-3	11,57
 r	01MG	mmolc.dm-3	6,10
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	13,85
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	13,85
 r	01SB	mmolc.dm-3	20,01
 r	01CTC	mmolc.dm-3	33,86
@@ -136,7 +136,7 @@ r	01CA	mmolc.dm-3	17,50
 r	01MG	mmolc.dm-3	10,64
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	13,14
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	13,14
 r	01SB	mmolc.dm-3	29,38
 r	01CTC	mmolc.dm-3	42,52
@@ -178,7 +178,7 @@ r	01CA	mmolc.dm-3	19,95
 r	01MG	mmolc.dm-3	12,85
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	14,60
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	14,60
 r	01SB	mmolc.dm-3	36,49
 r	01CTC	mmolc.dm-3	51,09
@@ -220,7 +220,7 @@ r	01CA	mmolc.dm-3	28,18
 r	01MG	mmolc.dm-3	12,44
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	14,15
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	14,15
 r	01SB	mmolc.dm-3	43,34
 r	01CTC	mmolc.dm-3	57,48
@@ -262,7 +262,7 @@ r	01CA	mmolc.dm-3	20,42
 r	01MG	mmolc.dm-3	11,52
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	17,28
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	17,28
 r	01SB	mmolc.dm-3	33,15
 r	01CTC	mmolc.dm-3	50,43
@@ -304,7 +304,7 @@ r	01CA	mmolc.dm-3	13,48
 r	01MG	mmolc.dm-3	8,19
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	17,65
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	17,65
 r	01SB	mmolc.dm-3	24,26
 r	01CTC	mmolc.dm-3	41,91
@@ -346,7 +346,7 @@ r	01CA	mmolc.dm-3	23,65
 r	01MG	mmolc.dm-3	14,90
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	14,45
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	14,45
 r	01SB	mmolc.dm-3	42,46
 r	01CTC	mmolc.dm-3	56,91
@@ -388,7 +388,7 @@ r	01CA	mmolc.dm-3	14,82
 r	01MG	mmolc.dm-3	6,65
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	12,47
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	12,47
 r	01SB	mmolc.dm-3	22,42
 r	01CTC	mmolc.dm-3	34,88
@@ -430,7 +430,7 @@ r	01CA	mmolc.dm-3	14,92
 r	01MG	mmolc.dm-3	9,58
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	12,73
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	12,73
 r	01SB	mmolc.dm-3	25,38
 r	01CTC	mmolc.dm-3	38,11
@@ -472,7 +472,7 @@ r	01CA	mmolc.dm-3	15,31
 r	01MG	mmolc.dm-3	6,64
 r	01AL	mmolc.dm-3	0
 r	01H+Al	mmolc.dm-3	14,00
-r	01S	mg.dm-3	
+r	01S	mg.dm-3	0
 r	01H	mmolc.dm-3	14,00
 r	01SB	mmolc.dm-3	23,02
 r	01CTC	mmolc.dm-3	37,02
