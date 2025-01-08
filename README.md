@@ -10,8 +10,7 @@ Abaixo esta o passo-a-passo para criação e publicação do desafio
 
 4. Os dados dos arquivos em excel devem ser convertidos para o formato .txt, respeitando o padrao do arquivo de exemplo _RE_Química_0001_06_01_2025_
 
-   1. ![Exemplo.](/exemplo.png "Exemplo")![exemplo](https://github.com/user-attachments/assets/536c5929-7610-43e4-9a7c-9e9e8703c7e0)
-
+   1. ![exemplo](https://github.com/user-attachments/assets/536c5929-7610-43e4-9a7c-9e9e8703c7e0)
 
    2. Todo arquivo se inicia com o cabeçalho `p  Nome_do_cliente`
 
