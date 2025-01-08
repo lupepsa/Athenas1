@@ -1,7 +1,7 @@
 import subprocess
 import sys
 
-# #Função para instalar os módulos necessários
+# Função para instalar os módulos necessários
 def instalar_modulo(modulo):
     subprocess.check_call([sys.executable, "-m", "pip", "install", modulo])
 
