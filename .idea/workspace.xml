@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92703974-2940-496f-aa36-ae2e11a05834" name="Changes" comment="At1">
-      <change beforePath="$PROJECT_DIR$/.idea/Athenas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Athenas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dir/RE_Química_0001_07012025.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dir/RE_Química_0001_08012025.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="92703974-2940-496f-aa36-ae2e11a05834" name="Changes" comment="At1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736304288931</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="At1">
+      <option name="closed" value="true" />
+      <created>1738259332961</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738259332961</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
