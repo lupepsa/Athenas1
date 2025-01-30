@@ -67,7 +67,7 @@ def process_excel_to_txt():
 
                 # Data no formato DDMMAAAA
                 year = datetime.today().strftime('%Y')
-                today = datetime.today().strftime('%d%m%Y')
+                today = datetime.today().strftime('%d_%m_%Y')
 
                 # Adiciona cabeçalhos e informações da fazenda
                 results.append("")
