@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92703974-2940-496f-aa36-ae2e11a05834" name="Changes" comment="At1">
-      <change afterPath="$PROJECT_DIR$/Desafio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio5_Janela.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio6_Janela.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio7_Janela.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dir/Resultados_EXCEL/RE_Química_0001_30_01_2025_15_26.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dir/Resultados_TXT/RE_Química_0001_30_01_2025_15_25.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,10 @@
     "Python.Desafio2.executor": "Run",
     "Python.Desafio3.executor": "Run",
     "Python.Desafio4.executor": "Run",
+    "Python.Desafio5.executor": "Run",
+    "Python.Desafio5_Janela.executor": "Run",
+    "Python.Desafio6.executor": "Run",
+    "Python.Desafio7_Janela.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -174,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738261593906</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="At1">
+      <option name="closed" value="true" />
+      <created>1738263025970</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738263025970</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
