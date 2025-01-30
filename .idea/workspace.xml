@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92703974-2940-496f-aa36-ae2e11a05834" name="Changes" comment="At1">
-      <change afterPath="$PROJECT_DIR$/Desafio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dir/RE_Química_0001_30_01_2025.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dir/Resultados_TXT/RE_Química_0001_30-01-2025_14-57-52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dir/Resultados_TXT/RE_Química_0001_30-01-2025_14-59-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dir/Resultados_TXT/RE_Química_0001_30-01-2025_15_00_39.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +43,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2rJvt7K7uY7UNfKkObQ05MLurZo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,10 +54,12 @@
   "keyToString": {
     "Python.Desafio.executor": "Run",
     "Python.Desafio2.executor": "Run",
+    "Python.Desafio3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/athen",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -135,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738259382371</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="At1">
+      <option name="closed" value="true" />
+      <created>1738260219870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738260219870</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
