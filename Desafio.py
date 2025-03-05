@@ -1,23 +1,28 @@
 import subprocess
 import sys
+import os
+from datetime import datetime
 
 # Função para instalar os módulos necessários
 def instalar_modulo(modulo):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", modulo])
+    try:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", modulo])
+        print(f"Módulo {modulo} instalado com sucesso!")
+    except subprocess.CalledProcessError as e:
+        print(f"Erro ao instalar o módulo {modulo}: {e}")
+        sys.exit(1)
 
 # Verifica e instala os módulos necessários
-try:
-    import os
-    import pandas as pd
-    from datetime import datetime
-except ImportError as e:
-    modulo_faltante = str(e).split()[-1][1:-1]  # Extrai o nome do módulo faltante
-    print(f"O módulo {modulo_faltante} não está instalado. Instalando agora...")
-    instalar_modulo(modulo_faltante)
-    # Re-importa os módulos após a instalação
-    import os
-    import pandas as pd
-    from datetime import datetime
+for modulo in ["pandas", "openpyxl"]:
+    try:
+        __import__(modulo)
+        print(f"Módulo {modulo} já está instalado.")
+    except ImportError:
+        print(f"O módulo {modulo} não está instalado. Instalando agora...")
+        instalar_modulo(modulo)
+
+# Agora que os módulos estão instalados, podemos importá-los normalmente
+import pandas as pd
 
 def ocultar_s24(sample_number):
     ## Substitui 'S24' por asteriscos, mantendo o restante do número intacto
